@@ -10,6 +10,7 @@ This repository contains a couple of precalculation scripts in the ResQEnergy pr
 5. Generation of a plot showing the shares of supply in future district heating systems according to Langfristszenarien: `get_plot_share_production_dh.py`
 6. A helping script to modify oemof-B3 weatherdata with `Testreferenzjahre`-ts: `modify_oemof-B3_weatherdata.py`
 7. Calculation of the installed capacity of solarthermal (st) plants in Adlershof without Wohnen am Campus for [results on installed capacities in Adlershof](https://rlinstitutde.sharepoint.com/:x:/s/427_ResQEnergy-427_internal_Team/IQB6qhQs-ZtISo_AnRz65XOrAbqwtfIi4H6D1Drv78B2ZcA?e=RVOJH9) `calc_st_kWh.py`
+8. Calculation of the infrared radiation in the test reference years (try) `get_infrared_radiation_from_try.py`
 
 raw_data
 ========
